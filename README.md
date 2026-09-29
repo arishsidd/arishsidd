@@ -18,7 +18,7 @@ B.Tech Computer Science student at Chandigarh University, passionate about Data 
 
 <!-- ================= SOCIAL LINKS ================= -->
 
-<a href="https://github.com/aarish_0073">
+<a href="https://github.com/arishsidd">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF88" />
 </a>
 <a href="https://linkedin.com/in/arish-siddiquie-872620354">
@@ -62,10 +62,10 @@ B.Tech Computer Science student at Chandigarh University, passionate about Data 
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarish_0073&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&ring_color=00FF88&count_private=true" width="450"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arishsidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&ring_color=00FF88&count_private=true" width="450"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarish_0073&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF88" width="450"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arishsidd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF88" width="450"/>
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ B.Tech Computer Science student at Chandigarh University, passionate about Data 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarish_0073&theme=github-compact&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arishsidd&theme=github-compact&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
@@ -219,9 +219,9 @@ Communication & Teamwork • Adaptability & Time Management • Willingness to L
 
 ## 📊 Visitor Metrics
 
-<img src="https://komarev.com/ghpvc/?username=aarish_0073&label=Profile%20Views&color=00FF88&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/aarish_0073?label=Followers&style=for-the-badge&color=00FF88&logo=github&logoColor=00FF88&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/aarish_0073&label=Repositories&query=public_repos&color=00FF88&style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=arishsidd&label=Profile%20Views&color=00FF88&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/arishsidd?label=Followers&style=for-the-badge&color=00FF88&logo=github&logoColor=00FF88&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/arishsidd&label=Repositories&query=public_repos&color=00FF88&style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0d1117" />
 
 </div>
 
